@@ -1,9 +1,8 @@
 Android Asset Studio
 ====================
 
-**[Open the Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)**
+**[Open the Android Asset Studio](https://abdullahmalabar.github.io/AndroidAsset/)**
 
-**[See the older version](https://romannurik.github.io/AndroidAssetStudio/older-version/) if you're having trouble with the new version**
 
 A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 
