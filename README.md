@@ -23,7 +23,3 @@ To build, ensure you have `node` and `npm` installed, and run:
 Once dependencies are installed, run with `gulp`:
 
     $ gulp serve
-
-## Related (third-party) projects
-
-- [Android Asset Studio Desktop Apps](https://androidassetstudio.codeplex.com/)
