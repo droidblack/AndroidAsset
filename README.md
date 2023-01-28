@@ -1,7 +1,7 @@
 Android Asset Studio
 ====================
 
-**[Open the Android Asset Studio](https://johami.github.io/AndroidAsset/)**
+**[Open the Android Asset Studio](https://droidblack.github.io/AndroidAsset/)**
 
 
 A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
